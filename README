@@ -1,0 +1,5 @@
+First attempt at slowing changing colors of lights in one room inconspicuously.
+
+Uses and based on https://github.com/studioimaginaire/phue.
+
+Initial version--everything is hardcoded and no comments. Hope to update soon as time permits.
